@@ -18,7 +18,7 @@ Add `csv` to your `~/.spacemacs` configuration layers
 ## Key bindings
 
 | Key Binding        | Description                       |
-|--------------------+-----------------------------------|
+|--------------------|-----------------------------------|
 | <kbd>SPC ma</kbd>  | Align fields                      |
 | <kbd>SPC mu</kbd>  | Unalign fields                    |
 | <kbd>SPC msf</kbd> | Sort fields                       |
