@@ -17,18 +17,18 @@ Add `csv` to your `~/.spacemacs` configuration layers
 
 ## Key bindings
 
-| Key Binding        | Description                       |
-|--------------------|-----------------------------------|
-| <kbd>SPC ma</kbd>  | Align fields                      |
-| <kbd>SPC mu</kbd>  | Unalign fields                    |
-| <kbd>SPC msf</kbd> | Sort fields                       |
-| <kbd>SPC msn</kbd> | Sort fields numerically           |
-| <kbd>SPC mso</kbd> | Toggle sort order                 |
-| <kbd>SPC mn</kbd>  | Move forward 1 field              |
-| <kbd>SPC mp</kbd>  | Move backwards 1 field            |
-| <kbd>SPC mr</kbd>  | Reverse region                    |
-| <kbd>SPC md</kbd>  | Kill fields                       |
-| <kbd>SPC mt</kbd>  | Transpose                         |
-| <kbd>SPC mi</kbd>  | Toggle delimiter invisibility     |
-| <kbd>SPC mpf</kbd> | Paste killed fields               |
-| <kbd>SPC mpt</kbd> | Paste killed fields as new table  |
+| Key Binding          | Description                      |
+|----------------------|----------------------------------|
+| <kbd>SPC m a</kbd>   | Align fields                     |
+| <kbd>SPC m u</kbd>   | Unalign fields                   |
+| <kbd>SPC m s f</kbd> | Sort fields                      |
+| <kbd>SPC m s n</kbd> | Sort fields numerically          |
+| <kbd>SPC m s o</kbd> | Toggle sort order                |
+| <kbd>SPC m n</kbd>   | Move forward 1 field             |
+| <kbd>SPC m p</kbd>   | Move backwards 1 field           |
+| <kbd>SPC m r</kbd>   | Reverse region                   |
+| <kbd>SPC m d</kbd>   | Kill fields                      |
+| <kbd>SPC m t</kbd>   | Transpose                        |
+| <kbd>SPC m i</kbd>   | Toggle delimiter invisibility    |
+| <kbd>SPC m p f</kbd> | Paste killed fields              |
+| <kbd>SPC m p t</kbd> | Paste killed fields as new table |
