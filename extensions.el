@@ -38,5 +38,5 @@
       "mr"  'csv-reverse-region
       "md"  'csv-kill-fields
       "mi"  'csv-toggle-invisibility
-      "mpf" 'csv-yank-fields
-      "mpt" 'csv-yank-as-new-table)))
+      "mvf" 'csv-yank-fields
+      "mvt" 'csv-yank-as-new-table)))

@@ -30,5 +30,5 @@ Add `csv` to your `~/.spacemacs` configuration layers
 | <kbd>SPC m d</kbd>   | Kill fields                      |
 | <kbd>SPC m t</kbd>   | Transpose                        |
 | <kbd>SPC m i</kbd>   | Toggle delimiter invisibility    |
-| <kbd>SPC m p f</kbd> | Paste killed fields              |
-| <kbd>SPC m p t</kbd> | Paste killed fields as new table |
+| <kbd>SPC m v f</kbd> | Paste killed fields              |
+| <kbd>SPC m v t</kbd> | Paste killed fields as new table |
