@@ -1,0 +1,32 @@
+#+TITLE: CSV layer for Spacemacs
+
+* Description
+
+This layer adds tools for better integration of CSV files in Spacemacs.
+
+* Install
+
+** Layer
+To use this contribution add it to your =~/.spacemacs=
+
+#+BEGIN_SRC emacs-lisp
+  (setq-default dotspacemacs-configuration-layers '(csv))
+#+END_SRC
+
+* Key Bindings
+
+| Key Binding   | Description                      |
+|---------------+----------------------------------|
+| ~SPC m a >~   | Align fields                     |
+| ~SPC m u >~   | Unalign fields                   |
+| ~SPC m s f >~ | Sort fields                      |
+| ~SPC m s n >~ | Sort fields numerically          |
+| ~SPC m s o >~ | Toggle sort order                |
+| ~SPC m n >~   | Move forward 1 field             |
+| ~SPC m p >~   | Move backwards 1 field           |
+| ~SPC m r >~   | Reverse region                   |
+| ~SPC m d >~   | Kill fields                      |
+| ~SPC m t >~   | Transpose                        |
+| ~SPC m i >~   | Toggle delimiter invisibility    |
+| ~SPC m v f >~ | Paste killed fields              |
+| ~SPC m v t >~ | Paste killed fields as new table |
