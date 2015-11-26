@@ -1,20 +1,6 @@
 
 # CSV layer for Spacemacs
 
-## Install
-
-Clone to `~/.emacs.d/private/csv`
-
-    $ git clone https://github.com/jb55/spacemacs-csv ~/.emacs.d/private/csv
-
-Add `csv` to your `~/.spacemacs` configuration layers
-
-```elisp
-(setq-default dotspacemacs-configuration-layers '(csv)
-  "List of contribution to load."
-)
-```
-
 ## Key bindings
 
 | Key Binding          | Description                      |
