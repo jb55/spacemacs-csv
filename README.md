@@ -1,6 +1,8 @@
 
 # CSV layer for Spacemacs
 
+**spacemacs-csv is deprecated**, it has been merged into Spacemacs. Use the `csv` layer to access it,
+
 ## Install
 
 Clone to `~/.emacs.d/private/csv`
