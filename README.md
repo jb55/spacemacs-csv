@@ -1,7 +1,7 @@
 
 # CSV layer for Spacemacs
 
-**spacemacs-csv is deprecated**, it has been merged into Spacemacs. Use the `csv` layer to access it,
+**spacemacs-csv is deprecated**, it has been [merged into Spacemacs](https://github.com/syl20bnr/spacemacs/commit/47250b06870d1e8ee0395d35f483f9b827170cf1). Use the `csv` layer to access it,
 
 ## Install
 
