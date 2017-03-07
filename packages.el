@@ -21,16 +21,16 @@ which require an initialization must be listed explicitly in the list.")
   (use-package csv-mode
     :init
     (evil-leader/set-key-for-mode 'csv-mode
-      "mt"  'csv-transpose
-      "ma"  'csv-align-fields
-      "mu"  'csv-unalign-fields
-      "msf" 'csv-sort-fields
-      "msn" 'csv-sort-numeric-fields
-      "mso" 'csv-toggle-descending
-      "mn"  'csv-forward-field
-      "mp"  'csv-backward-field
-      "mr"  'csv-reverse-region
-      "md"  'csv-kill-fields
-      "mi"  'csv-toggle-invisibility
-      "mvf" 'csv-yank-fields
-      "mvt" 'csv-yank-as-new-table)))
+      "t"  'csv-transpose
+      "a"  'csv-align-fields
+      "u"  'csv-unalign-fields
+      "sf" 'csv-sort-fields
+      "sn" 'csv-sort-numeric-fields
+      "so" 'csv-toggle-descending
+      "n"  'csv-forward-field
+      "p"  'csv-backward-field
+      "r"  'csv-reverse-region
+      "d"  'csv-kill-fields
+      "i"  'csv-toggle-invisibility
+      "vf" 'csv-yank-fields
+      "vt" 'csv-yank-as-new-table)))
